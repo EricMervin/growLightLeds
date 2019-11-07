@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "679245386201",
+    "firebase_url": "https://growlightledbennettuniv.firebaseio.com",
+    "project_id": "growlightledbennettuniv",
+    "storage_bucket": "growlightledbennettuniv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679245386201:android:8e9f7a3d22ef1e1f1fc9c8",
+        "android_client_info": {
+          "package_name": "com.example.growled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679245386201-5n3ce67il82d4fsmcl6e18qja2mvnnt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs1StXEI73xfDf1mi976g_ag3kbljnJkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679245386201-5n3ce67il82d4fsmcl6e18qja2mvnnt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
